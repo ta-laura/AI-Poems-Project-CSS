@@ -28,6 +28,7 @@ form{
     font-size: 18px;
     border-radius: 10px;
     color: #272044;
+    outline: none;
   }
   .submit-button{
     margin-left: 10px;
